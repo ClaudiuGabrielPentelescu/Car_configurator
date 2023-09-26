@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1623777749 source:c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"meniu.h"
+
+1623773171 c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\include\meniu.h
+	"logo.h"
+
+1623778719 source:c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\src\masina.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+
+1623773412 source:c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\src\meniu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"meniu.h"
+	<fstream>
+	"masina.h"
+	"logo.h"
+
+1623762553 c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\include\masina.h
+
+1623772754 source:c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\src\logo.cpp
+	"logo.h"
+	<iostream>
+
+1623772722 c:\users\claudiupc\desktop\poo proiect\reprezentanta auto vag\include\logo.h
+
+1623777749 source:c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"meniu.h"
+
+1623773171 c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\meniu.h
+	"logo.h"
+
+1623772722 c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\logo.h
+
+1623772754 source:c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\logo.cpp
+	"logo.h"
+	<iostream>
+
+1623778719 source:c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\masina.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+
+1623773412 source:c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\meniu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"meniu.h"
+	<fstream>
+	"masina.h"
+	"logo.h"
+
+1623762553 c:\users\claudiupc\desktop\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\masina.h
+
+1623777749 source:c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"meniu.h"
+
+1623773171 c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\meniu.h
+	"logo.h"
+
+1623772722 c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\logo.h
+
+1623772754 source:c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\logo.cpp
+	"logo.h"
+	<iostream>
+
+1623778719 source:c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\masina.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+
+1623773412 source:c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\src\meniu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"meniu.h"
+	<fstream>
+	"masina.h"
+	"logo.h"
+
+1623762553 c:\users\claudiupc\desktop\proiect poo\pentelescu claudiu_3122c-proiect poo reprezentanta auto vag\reprezentanta auto vag\include\masina.h
+
